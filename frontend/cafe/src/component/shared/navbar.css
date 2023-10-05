@@ -1,0 +1,29 @@
+.navbar{
+  position: fixed;
+  width: 100%;  
+  background-color: #b2ceff;
+  color: #FFF;
+  height: 60px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #b2ceff; 
+}
+
+.logonav{
+  width: 50px; 
+  height: 50px;
+  object-fit: contain; 
+}
+
+.logout{
+  display: inline-block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.5rem;
+  background-color: #dd1c1a;
+  color: #ffffff;
+}

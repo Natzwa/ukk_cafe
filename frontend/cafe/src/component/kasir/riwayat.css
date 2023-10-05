@@ -1,0 +1,9 @@
+.bg{
+    background-image: url("pemesanan.png");
+    background-size: cover;
+    background-position: center;
+    padding: 80px;
+    height: 250vh;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+}
